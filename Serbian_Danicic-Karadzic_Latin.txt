@@ -1,0 +1,219 @@
+// If you edit this file, please ensure that the encoding remains UTF-8 without BOM.
+
+Source-Text: Serbian_Danicic-Karadzic_Latin.thml
+Source-Format: thml
+
+Info: The Holy Bible - Serbian Translation Daničić Karadžic - Latin version. Vuk Karadžic translated the New Testament in 1847, and Đuro Daničić finished his translation of the Old Testament in 1865. This Java ME application made by David Haslam using Go Bible Creator 
+
+// Rebuilt with Go Bible version 2.4.0
+
+// Serbian user interface
+UI-About: O programu
+UI-Add-Bookmark: Dodaj marker
+UI-All: Sve
+UI-Back: Nazad
+UI-Bold: Mastan
+UI-Book: Knjiga
+UI-Bookmarks: Markeri
+UI-Books-Of-Moses: Petoknjižje
+UI-Books: Knjiga
+UI-Cancel: Poništi
+UI-Change: Promeni
+UI-Chapter: Glava
+UI-Delete-Bookmark-Alert: Izbrisati označeni marker?
+UI-Delete-Bookmark: Izbrisati marker
+UI-Delete: Izbriši
+UI-Error: Greška
+UI-Exit: Izlaz
+UI-Font-Size: Veličina slova
+UI-Font-Style: Oblik slova
+UI-Found: Nađeno
+UI-From-Book: Od Knjige
+UI-Full-Screen: Ceo ekran
+UI-Gospels: Jevanđelja
+UI-Goto: Idi na
+UI-Historical: Istorijske
+UI-History: Pogledano
+UI-Large: Velika
+UI-Loading: Očitavanje
+UI-Major-Prophets: Veliki Proroci
+UI-Medium: Srednja
+UI-Message-Too-Large-To-Be-Sent: Poruka je prevelika za slanje
+UI-Minor-Prophets: Mali proroci
+UI-New-Testament: Novi Zavet
+UI-Of: od
+UI-Off: Isključi
+UI-OK: U redu
+UI-Old-Testament: Stari Zavet
+UI-On: Uključi
+UI-Other-Letters: Ostale poslanice
+UI-Pauls-Letters: Pavlove poslanice
+UI-Phone-Number: Broj telefona
+UI-Plain: Običan
+UI-Please-Wait: Molimo sačekajte
+UI-Poetic: Poetske
+UI-Preferences: Podešavanja
+UI-Results: Rezultati
+UI-Reverse-Characters: Piši reči unazad
+UI-Reverse-Colours: Izokreni boje
+UI-Save: Sačuvaj
+UI-Search-Results: Rezultati pretrage
+UI-Search-Text: Traži tekst
+UI-Search: Traži
+UI-Searching: Pretraživanje
+UI-Select-Verses-To-Send: Izaberi stihove za slanje
+UI-Select: Izaberi
+UI-Send-MMS: Pošalji MMS
+UI-Send-SMS: Pošalji SMS
+UI-Send-Verses: Pošalji stihove
+UI-Send: Pošalji
+UI-Small: Mala
+UI-Stop: Zaustavi
+UI-Theme-Blue: Plava tema
+UI-Theme-Computer: Računar tema
+UI-Theme-Floral: Cveće tema
+UI-Theme-Natural: Priroda tema
+UI-Theme-Paper: Hartija tema
+UI-Theme-Sunshine: Sunčev sjaj tema
+UI-Theme: Tema
+UI-Themes: Teme
+UI-To-Book: Do Knjige
+UI-To: do
+UI-Verse-Does-Not-Exist: Stih ne postoji
+UI-View: Pogledaj
+
+// Serbian book names
+Book-Name-Map: Genesis, 1 Mojsijeva
+Book-Name-Map: Exodus, 2 Mojsijeva
+Book-Name-Map: Leviticus, 3 Mojsijeva
+Book-Name-Map: Numbers, 4 Mojsijeva
+Book-Name-Map: Deuteronomy, 5 Mojsijeva
+Book-Name-Map: Joshua, Isus Navin
+Book-Name-Map: Judges, Sudije
+Book-Name-Map: Ruth, Ruta
+Book-Name-Map: 1 Samuel, 1 Samuilova
+Book-Name-Map: 2 Samuel, 2 Samuilova
+Book-Name-Map: 1 Kings, 1 Carevima
+Book-Name-Map: 2 Kings, 2 Carevima
+Book-Name-Map: 1 Chronicles, 1 Dnevnika
+Book-Name-Map: 2 Chronicles, 2 Dnevnika
+Book-Name-Map: Ezra, Jezdra
+Book-Name-Map: Nehemiah, Nemija
+Book-Name-Map: Esther, Jestira
+Book-Name-Map: Job, Jov
+Book-Name-Map: Psalms, Psalmi
+Book-Name-Map: Proverbs, Priče
+Book-Name-Map: Ecclesiastes, Propovednik
+Book-Name-Map: Song of Solomon, Pesma
+Book-Name-Map: Isaiah, Isaija
+Book-Name-Map: Jeremiah, Jeremija
+Book-Name-Map: Lamentations, Plač
+Book-Name-Map: Ezekiel, Jezekilj
+Book-Name-Map: Daniel, Danilo
+Book-Name-Map: Hosea, Osija
+Book-Name-Map: Joel, Joil
+Book-Name-Map: Amos, Amos
+Book-Name-Map: Obadiah, Avdija
+Book-Name-Map: Jonah, Jona
+Book-Name-Map: Micah, Mihej
+Book-Name-Map: Nahum, Nauma
+Book-Name-Map: Habakkuk, Avakum
+Book-Name-Map: Zephaniah, Sofonije
+Book-Name-Map: Haggai, Agej
+Book-Name-Map: Zechariah, Zaharija
+Book-Name-Map: Malachi, Malahija
+Book-Name-Map: Matthew, Mateju
+Book-Name-Map: Mark, Marku
+Book-Name-Map: Luke, Luki
+Book-Name-Map: John, Jovanu
+Book-Name-Map: Acts of the Apostles, Dela apostolska
+Book-Name-Map: Romans, Rimljanima
+Book-Name-Map: 1 Corinthians, 1 Korinćanima
+Book-Name-Map: 2 Corinthians, 2 Korinćanima
+Book-Name-Map: Galatians, Galatima
+Book-Name-Map: Ephesians, Efescima
+Book-Name-Map: Philippians, Filipljanima
+Book-Name-Map: Colossians, Kološanima
+Book-Name-Map: 1 Thessalonians, 1 Solunjanima
+Book-Name-Map: 2 Thessalonians, 2 Solunjanima
+Book-Name-Map: 1 Timothy, 1 Timotiju
+Book-Name-Map: 2 Timothy, 2 Timotiju
+Book-Name-Map: Titus, Titu
+Book-Name-Map: Philemon, Filimonu
+Book-Name-Map: Hebrews, Jevrejima
+Book-Name-Map: James, Jakovljeva
+Book-Name-Map: 1 Peter, 1 Petrova
+Book-Name-Map: 2 Peter, 2 Petrova
+Book-Name-Map: 1 John, 1 Jovanova
+Book-Name-Map: 2 John, 2 Jovanova
+Book-Name-Map: 3 John, 3 Jovanova
+Book-Name-Map: Jude, Judina
+Book-Name-Map: Revelation, Otkrivenje
+
+Collection: Serbian Danicic Karadzic Latin
+Book: Genesis
+Book: Exodus
+Book: Leviticus
+Book: Numbers
+Book: Deuteronomy
+Book: Joshua
+Book: Judges
+Book: Ruth
+Book: 1 Samuel
+Book: 2 Samuel
+Book: 1 Kings
+Book: 2 Kings
+Book: 1 Chronicles
+Book: 2 Chronicles
+Book: Ezra
+Book: Nehemiah
+Book: Esther
+Book: Job
+Book: Psalms
+Book: Proverbs
+Book: Ecclesiastes
+Book: Song of Solomon
+Book: Isaiah
+Book: Jeremiah
+Book: Lamentations
+Book: Ezekiel
+Book: Daniel
+Book: Hosea
+Book: Joel
+Book: Amos
+Book: Obadiah
+Book: Jonah
+Book: Micah
+Book: Nahum
+Book: Habakkuk
+Book: Zephaniah
+Book: Haggai
+Book: Zechariah
+Book: Malachi
+Book: Matthew
+Book: Mark
+Book: Luke
+Book: John
+Book: Acts of the Apostles
+Book: Romans
+Book: 1 Corinthians
+Book: 2 Corinthians
+Book: Galatians
+Book: Ephesians
+Book: Philippians
+Book: Colossians
+Book: 1 Thessalonians
+Book: 2 Thessalonians
+Book: 1 Timothy
+Book: 2 Timothy
+Book: Titus
+Book: Philemon
+Book: Hebrews
+Book: James
+Book: 1 Peter
+Book: 2 Peter
+Book: 1 John
+Book: 2 John
+Book: 3 John
+Book: Jude
+Book: Revelation

@@ -1,0 +1,12 @@
+MIDlet-1:  Serbian Danicic Karadzic Latin Go Bible, Icon.png, GoBible
+MIDlet-Name:  Serbian Danicic Karadzic Latin Go Bible
+MIDlet-Icon: Icon.png
+MIDlet-Jar-Size: 1384661
+MIDlet-Jar-URL: SerbianDanicicKaradzicLatin.jar
+MIDlet-Info-URL: http://wap.jolon.org
+MIDlet-Vendor: Jolon Faichney
+MIDlet-Version: 2.4.0
+MIDlet-Data-Size: 100
+MicroEdition-Profile: MIDP-2.0
+Go-Bible-Info: The Holy Bible - Serbian Translation Daničić Karadžic - Latin version. Vuk Karadžic translated the New Testament in 1847, and Đuro Daničić finished his translation of the Old Testament in 1865. This Java ME application made by David Haslam using Go Bible Creator Ver. 2.4.0
+Go-Bible-Align: Left
